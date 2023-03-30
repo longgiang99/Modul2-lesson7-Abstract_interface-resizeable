@@ -34,6 +34,9 @@ public class Circle extends Shape {
     public void resize(double percent) {
         radius *= (1 + percent/100);
     }
+    public void howToColor(){
+        System.out.println("color all four sides");
+    }
 
     @Override
     public String toString() {

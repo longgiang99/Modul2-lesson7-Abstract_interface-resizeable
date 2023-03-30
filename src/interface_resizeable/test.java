@@ -13,6 +13,7 @@ public class test {
         Circle circle = new Circle(5);
         System.out.println(circle);
         System.out.println(circle.getArea());
+        circle.howToColor();
 
         circle.resize(50);
         System.out.println(circle.getRadius());
@@ -28,6 +29,7 @@ public class test {
         Rectangle rectangle = new Rectangle(10,5);
         System.out.println(rectangle);
         System.out.println(rectangle.getPerimeter());
+
 
         rectangle.resize(-50);
         System.out.println(rectangle.getWidth() + " "+ rectangle.getLength());

@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85216fc2-586b-4038-98ff-3b34fa9607d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson7_Abstract-Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_resizeable/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_resizeable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_resizeable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_resizeable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_resizeable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_resizeable/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_resizeable/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680164486593</updated>
-      <workItem from="1680164487894" duration="3200000" />
+      <workItem from="1680164487894" duration="5391000" />
     </task>
     <servers />
   </component>

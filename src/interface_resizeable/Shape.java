@@ -1,6 +1,6 @@
 package interface_resizeable;
 
-public class Shape implements Resizeable{
+public class Shape implements Resizeable,Colorable{
     protected String color = "blue";
     protected boolean filled = true;
 
@@ -39,6 +39,11 @@ public class Shape implements Resizeable{
 
     @Override
     public void resize(double percent) {
+
+    }
+
+    @Override
+    public void howToColor() {
 
     }
 }
